@@ -31,4 +31,4 @@ async def on_message(message):
       await message.channel.send("Berry has started")#just an example
               
 #keep_alive()  #for 24/7
-client.run("OTExMTkzNjg2MTQwOTM2MTky.YZd1Pw.mAc62rFh4rNqdjttUtdJ_b6R6UQ")#input bot id with ""
+client.run("")#input bot id with ""
